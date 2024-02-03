@@ -7,6 +7,6 @@ description = "Tournament management library, with a variety of tournament syste
 license = "MIT"
 repository = "https://github.com/elor/tuvero.rs"
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+include = ["src/**/*", "Cargo.toml"]
 
 [dependencies]
