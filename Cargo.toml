@@ -9,4 +9,6 @@ repository = "https://github.com/elor/tuvero.rs"
 
 include = ["src/**/*", "Cargo.toml"]
 
+keywords = ["library"]
+
 [dependencies]
